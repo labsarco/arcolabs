@@ -6,14 +6,11 @@ Welcome to the official GitHub repository for Arco Labs. This repository contain
 ```
 |-- arco-labs
     |-- README.md
-    |-- docs/
     |-- src/
         |-- oracles/
         |-- deepseek_integration/
         |-- backend/
         |-- sdk/
-        |-- utils/
-    |-- tests/
     |-- examples/
 ```
 
